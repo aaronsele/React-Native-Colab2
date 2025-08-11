@@ -163,7 +163,7 @@ B: Pantalla de Perfiles y componentes reutilizables (ProfileCard).
 
 A: Me gustó trabajar con navegación. Me costó entender los conflictos de merge, pero aprendí a resolverlos, y aunque hubieron algunos errores pavos como olvidarse el auto save entonces cuando haciamos push habian cosas que no se subian creo que pudimos resolverlas correctamente y avanzar.
 
-B:
+B: Me pareció muy buena la idea de utilizar el merge para trabajar. Creo que es algo que voy a empezar a utilizar más seguido. Tambien me gustó trabajar en React Native, ya que al usar este lenguaje en mi proyecto final me pareció bueno utilizarlo como prueba para implementarlo en el futuro.
 
 14) Code Reviews realizados
 
