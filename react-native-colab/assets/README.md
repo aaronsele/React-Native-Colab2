@@ -164,3 +164,12 @@ B: Pantalla de Perfiles y componentes reutilizables (ProfileCard).
 A: Me gustó trabajar con navegación. Me costó entender los conflictos de merge, pero aprendí a resolverlos, y aunque hubieron algunos errores pavos como olvidarse el auto save entonces cuando haciamos push habian cosas que no se subian creo que pudimos resolverlas correctamente y avanzar.
 
 B:
+
+14) Code Reviews realizados
+
+A revisó 1 PR de B en la rama feature/perfil.
+
+B revisó varios PR de A en las ramas:
+feature/counter
+feature/prueba-useState
+feature/mejora-card
