@@ -1,20 +1,18 @@
-import { StatusBar } from 'expo-status-bar';
-import { StyleSheet, Text, View } from 'react-native';
+import React from 'react';
+import { SafeAreaView, ScrollView } from 'react-native';
+import ProfileCard from './ProfileCard';
 
 export default function App() {
   return (
-    <View style={styles.container}>
-      <Text>Open up App.js to start working on your app!</Text>
-      <StatusBar style="auto" />
-    </View>
+    <SafeAreaView>
+      <ScrollView>
+        <ProfileCard
+          name="Sarobe Francis"
+          title="Desarrollador Mobile"
+          description="Apasionado por la tecnología y el desarrollo de apps móviles con React Native."
+          image="https://randomuser.me/api/portraits/men/1.jpg"
+        />
+      </ScrollView>
+    </SafeAreaView>
   );
 }
-
-const styles = StyleSheet.create({
-  container: {
-    flex: 1,
-    backgroundColor: '#fff',
-    alignItems: 'center',
-    justifyContent: 'center',
-  },
-});
