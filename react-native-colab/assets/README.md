@@ -157,3 +157,10 @@ Aportes de cada integrante
 A: Navegación general (react-navigation) y pantalla de inicio.
 
 B: Pantalla de Perfiles y componentes reutilizables (ProfileCard).
+
+
+13) Evaluacion cruzada
+
+A: Me gustó trabajar con navegación. Me costó entender los conflictos de merge, pero aprendí a resolverlos, y aunque hubieron algunos errores pavos como olvidarse el auto save entonces cuando haciamos push habian cosas que no se subian creo que pudimos resolverlas correctamente y avanzar.
+
+B:
